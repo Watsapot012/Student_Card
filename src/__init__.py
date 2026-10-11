@@ -1,0 +1,1 @@
+"""Student card application package."""

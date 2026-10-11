@@ -1,0 +1,1 @@
+Place the student portrait here as `default.jpg`, or set `photo_path` in `main.py` to another image path.
